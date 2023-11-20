@@ -1,0 +1,106 @@
+.top-nav-container{
+    height: 9.5em;
+}
+
+.top-nav-upper{
+    height: 27%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(51,51,51);
+    color: white;
+}
+
+.top-nav-upper-left{
+    display: flex;
+    height: 100%;
+}
+
+.top-nav-upper-left img{
+    height: 90%;
+}
+
+.top-nav-upper-centre{
+    font-size: 0.7em;
+}
+
+.top-nav-upper-centre span{
+    text-decoration: underline;
+}
+
+.top-nav-upper-right{
+    display: flex;
+    text-align: left;
+    font-size: 0.8em;
+}
+
+.top-nav-sign-in{
+    border-right: 1px solid white;
+    width: 10em;
+}
+
+.top-nav-sign-in i{
+    margin-left: 5%;
+}
+
+.top-nav-shopping-bag{
+    width: 3em;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+.top-nav-lower{
+    height: 73%;
+    display: flex;
+}
+
+.top-nav-lower-left{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-nav-lower-logo{
+    width: 5%;
+    margin-top: 1%;
+}
+
+.top-nav-lower-options{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.top-nav-lower-right > div{
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+    margin-top: 20%;
+    width: 15em;
+    border-bottom: 1px solid black;
+}
+
+.top-nav-lower-right input{
+    width: 100%;
+    border: none;
+    outline: none;
+}
+
+.black-friday{
+    background-color: black;
+    color: white;
+}
+
+.black-friday .top-nav-lower-right > div{
+    border-bottom: 1px solid white;
+}
+
+.black-friday input{
+    background-color: black;
+    color: white;
+}
+
+.black-border{
+    border: 1px solid black;
+}

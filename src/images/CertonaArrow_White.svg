@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="24.004" viewBox="0 0 13 24.004">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0;
+      }
+    </style>
+  </defs>
+  <g id="CertonaArrow_White" transform="translate(6417 -2210.996)">
+    <rect id="Rectangle_4246" data-name="Rectangle 4246" class="cls-1" width="13" height="24" transform="translate(-6417 2211)"/>
+    <path id="Path_8097" data-name="Path 8097" class="cls-2" d="M1929.825,3371.508l-1.02-1.1,12.259-11.359.51.5,11.2,10.875-1.045,1.076-10.685-10.379Z" transform="translate(-9775.778 4163.77) rotate(-90)"/>
+  </g>
+</svg>

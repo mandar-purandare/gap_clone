@@ -1,0 +1,123 @@
+.home-body{
+    background-color: black;
+    color: white;
+    height: 3000px;
+}
+
+.black-friday-banner{
+    height: 15em;
+    display: flex;
+    background-color: black;
+}
+
+.black-friday-banner > div:nth-child(1){
+    margin-left: 2%;
+}
+
+.black-friday-banner > div:nth-child(2){
+    width: 18%;
+    margin-left: 2%;
+}
+
+.black-friday-banner img{
+    height: 100%;
+    width: 100%;
+}
+
+.black-friday-banner p{
+    font-size: 0.7em;
+}
+
+.body-nav-and-offer-details{
+    display: flex;
+    justify-content: space-around;
+}
+
+.body-nav-and-offer-details p{
+    font-size: 0.7em;
+    text-wrap: nowrap;
+    /* padding-left: 5%; */
+}
+
+.body-nav-and-offer-details button{
+    height: 100%;
+    margin: 0% 0.5%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.body-nav{
+    width: 70%;
+}
+
+.big-deals{
+    text-align: left;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.big-deals h2{
+    font-size: 2.5em;
+    font-weight: 400;
+    margin-bottom: 0%;
+}
+
+.big-offer-categories{
+    height: 110em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.big-offer-category-template{
+    width: 45%;
+    height: 50%;
+}
+
+.big-offer-category-image{
+    height: 85%;
+}
+
+.big-offer-category-image img{
+    height: 100%;
+    width: 100%;
+}
+
+.category-name-and-button{
+    display: flex;
+    justify-content: space-between;
+}
+
+.category-name h2{
+    font-size: 2em;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-weight: 400;
+}
+
+.category-name p{
+    text-align: left;
+}
+
+.shop-button{
+    width: 20%;
+    height: 2.5em;
+    margin-top: 4%;
+}
+
+.shop-button button{
+    height: 100%;
+    width: 100%;
+}
+
+.black-friday-deals{
+    height: 17%;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.white-border{
+    border: 1px solid white;
+}
