@@ -1,3 +1,84 @@
-.slider-container .home-page div{
-    display: none;
+/************* black friday deals  ****************/
+
+
+ .black-friday-deals-slider > div{
+    /* height: 28em; */
+    /* height: 17%; */
+    /* border: 1px solid blue; */
+    display: flex;
+    justify-content: center;
+}
+
+.black-friday-deals-slider .slider-title{
+    text-align: left;
+    margin-left: 6%;
+    margin-top: 5%;
+    font-size: 1.25em;
+}
+
+.black-friday-deals-slider .slider-template{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    /* border: 1px solid white; */
+}
+
+.black-friday-deals-slider .slider-image-div{
+    height: 18em;
+    width: 14em;
+}
+
+.black-friday-deals-slider img{
+    height: 100%;
+    width: 100%;
+}
+
+.black-friday-deals-slider .slider-image-title{
+    text-align: left;
+    font-size: 0.9em;
+    text-wrap: wrap;
+    width: 14em;
+}
+
+
+
+/*************** shop by division *********************/
+
+.shop-by-division-slider > div{
+    /* height: 28em; */
+    /* height: 17%; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.shop-by-division-slider .slider-title{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 5%;
+    font-size: 1.25em;
+}
+
+.shop-by-division-slider .slider-template{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    /* border: 1px solid white; */
+}
+
+.shop-by-division-slider .slider-image-div{
+    height: 24em;
+    width: 17em;
+}
+
+.shop-by-division-slider img{
+    height: 100%;
+    width: 100%;
+}
+
+.shop-by-division .slider-image-title{
+    text-align: left;
+    font-size: 0.9em;
+    text-wrap: wrap;
+    width: 14em;
+    text-decoration: underline;
 }

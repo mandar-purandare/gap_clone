@@ -1,7 +1,7 @@
 .home-body{
     background-color: black;
     color: white;
-    height: 3000px;
+    height: 4000px;
 }
 
 .black-friday-banner{
@@ -70,12 +70,12 @@
 }
 
 .big-offer-category-template{
-    width: 45%;
+    width: 46%;
     height: 50%;
 }
 
 .big-offer-category-image{
-    height: 85%;
+    height: 80%;
 }
 
 .big-offer-category-image img{
@@ -111,7 +111,11 @@
 }
 
 .black-friday-deals{
-    height: 17%;
+    height: 15%;
+}
+
+.shop-by-division{
+    height: 26%;
 }
 
 .underline{
